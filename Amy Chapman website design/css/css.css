@@ -1,0 +1,56 @@
+div.title {
+  text-align: center;
+  height: 15%;
+  margin: 0px;
+  padding: 10px;
+
+}
+
+div.first {
+  text-align: center;
+  height: 50%;
+  margin: 0px;
+  padding: 20px;
+  background-color: #fbd5d7;
+
+
+}
+
+img.first{
+  position: relative;
+  bottom: -55px;
+
+}
+
+div.portfolio {
+  text-align: center;
+  margin: 5%;
+}
+
+
+img.gallery {
+  margin: 2%;
+  height: auto;
+  padding: 50px;
+}
+
+div.aboutme{
+  padding: 5%;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 24px;
+}
+
+div.contact {
+  text-align: left;
+  color: white;
+  padding-left: 5%;
+  background-color: #363636;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+
+
+a {
+  color: black;
+}
